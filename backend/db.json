@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 2.39
+    },
+    {
+      "id": 2,
+      "name": "Caderno",
+      "price": 22.9
+    },
+    {
+      "id": 3,
+      "name": "Teclado de computador",
+      "price": 10.49
+    },
+    {
+      "name": "Monitor",
+      "price": "599.99",
+      "id": 4
+    }
+  ]
+}
